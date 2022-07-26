@@ -1,2 +1,2 @@
-# -Coursera-Assignment1
+# Coursera-Assignment1
 Assignment
